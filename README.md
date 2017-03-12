@@ -10,6 +10,6 @@ Currently deployed as snapshots on
 
 ```scala
 libraryDependencies ++= Seq(
-  "org.mdedetrich" %% "scalajs-antdesign" % "0.1.0-SNAPSHOT"
+  "org.timopheym" %% "scalajs-antdesign" % "0.1.0-SNAPSHOT"
 )
 ```
